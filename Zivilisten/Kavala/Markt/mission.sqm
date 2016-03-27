@@ -1606,58 +1606,6 @@ class Mission
 			init="this allowDamage false; this enableSimulation false; this setdir getdir(tipsSignPost01); this SetObjectTexture [0,""textures\Schilder/autoh.paa""]; this attachTo [tipsSignPost01,[0,-.1,0.6]];  ";
 		};
 	};
-	class Markers
-	{
-		items=6;
-		class Item0
-		{
-			position[]={3648.478,10.348763,13078.098};
-			name="atm_marker";
-			text="Bank";
-			type="loc_Tourism";
-			colorName="ColorGreen";
-		};
-		class Item1
-		{
-			position[]={3662.2659,10.362605,13120.94};
-			name="kloeidun";
-			text="Kleidung";
-			type="mil_dot";
-			colorName="ColorGreen";
-		};
-		class Item2
-		{
-			position[]={3719.8247,12.348269,13165.761};
-			name="Car_Shop";
-			text="Autoshop";
-			type="mil_dot";
-			colorName="ColorGreen";
-		};
-		class Item3
-		{
-			position[]={3655.802,14.045131,13077.779};
-			name="Shop1";
-			text="Shop";
-			type="mil_dot";
-			colorName="ColorGreen";
-		};
-		class Item4
-		{
-			position[]={3663.5442,13.219424,13098.06};
-			name="Shop_2";
-			text="Shop";
-			type="mil_dot";
-			colorName="ColorGreen";
-		};
-		class Item5
-		{
-			position[]={3649.9641,13.140295,13099.006};
-			name="Shop_3";
-			text="Shop";
-			type="mil_dot";
-			colorName="ColorGreen";
-		};
-	};
 };
 class Intro
 {
