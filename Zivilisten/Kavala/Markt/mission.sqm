@@ -312,16 +312,6 @@ class Mission
 			skill=0.40000001;
 			init="this allowDamage false; this enableSimulation false; this setdir getdir(tipsSignPost01); this SetObjectTexture [0,""textures\schilder\logo.jpg""]; this attachTo [tipsSignPost01,[0,-.1,0.6]];  ";
 		};
-		class Item24
-		{
-			position[]={3627.0256,10.022676,13124.029};
-			azimut=184.03101;
-			offsetY=0.30914101;
-			id=24;
-			side="EMPTY";
-			vehicle="SignAd_SponsorS_F";
-			skill=0.40000001;
-		};
 		class Item25
 		{
 			position[]={3629.8958,10.039637,13124.929};
