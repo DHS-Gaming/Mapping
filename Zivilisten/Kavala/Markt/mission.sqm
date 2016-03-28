@@ -122,7 +122,7 @@ class Mission
 			side="EMPTY";
 			vehicle="Land_LampHarbour_F";
 			skill=0.40000001;
-			init="this allowDamage false; this enableSimulation false;";
+			init="this allowDamage false; this enableSimulation true;";
 		};
 		class Item6
 		{
@@ -511,7 +511,7 @@ class Mission
 			side="EMPTY";
 			vehicle="Land_LampHarbour_F";
 			skill=0.40000001;
-			init="this allowDamage false; this enableSimulation false;";
+			init="this allowDamage false; this enableSimulation true;";
 		};
 		class Item44
 		{
@@ -521,7 +521,7 @@ class Mission
 			side="EMPTY";
 			vehicle="Land_LampHarbour_F";
 			skill=0.40000001;
-			init="this allowDamage false; this enableSimulation false;";
+			init="this allowDamage false; this enableSimulation true;";
 		};
 		class Item45
 		{
@@ -531,7 +531,7 @@ class Mission
 			side="EMPTY";
 			vehicle="Land_LampHarbour_F";
 			skill=0.40000001;
-			init="this allowDamage false; this enableSimulation false;";
+			init="this allowDamage false; this enableSimulation true;";
 		};
 		class Item46
 		{
