@@ -1430,36 +1430,6 @@ class Mission
 			skill=0.40000001;
 			init="this allowDamage false; this enableSimulation false;";
 		};
-		class Item132
-		{
-			position[]={3663.5957,10.428263,13099.029};
-			offsetY=0.994955;
-			id=132;
-			side="EMPTY";
-			vehicle="Land_CarBattery_02_F";
-			skill=0.40000001;
-			init="this allowDamage false; this enableSimulation false;";
-		};
-		class Item133
-		{
-			position[]={3663.6157,10.427544,13099.229};
-			offsetY=1.01015;
-			id=133;
-			side="EMPTY";
-			vehicle="Land_CarBattery_02_F";
-			skill=0.40000001;
-			init="this allowDamage false; this enableSimulation false;";
-		};
-		class Item134
-		{
-			position[]={3663.6357,10.426424,13099.529};
-			offsetY=0.98635501;
-			id=134;
-			side="EMPTY";
-			vehicle="Land_CarBattery_02_F";
-			skill=0.40000001;
-			init="this allowDamage false; this enableSimulation false;";
-		};
 		class Item135
 		{
 			position[]={3662.9456,10.371976,13120.029};
