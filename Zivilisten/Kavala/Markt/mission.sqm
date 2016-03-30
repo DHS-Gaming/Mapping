@@ -115,15 +115,6 @@ class Mission
 			skill=0.40000001;
 			init="this allowDamage false; this enableSimulation false;";
 		};
-		class Item5
-		{
-			position[]={3626.4158,10.206617,13094.429};
-			id=5;
-			side="EMPTY";
-			vehicle="Land_LampHarbour_F";
-			skill=0.40000001;
-			init="this allowDamage false; this enableSimulation true;";
-		};
 		class Item6
 		{
 			position[]={3625.5557,10.126828,13107.829};
@@ -502,37 +493,7 @@ class Mission
 			skill=0.40000001;
 			init="this allowDamage false; this enableSimulation false;";
 		};
-		class Item43
-		{
-			position[]={3647.8557,10.211327,13108.229};
-			azimut=184.192;
-			offsetY=-9.5367398e-007;
-			id=43;
-			side="EMPTY";
-			vehicle="Land_LampHarbour_F";
-			skill=0.40000001;
-			init="this allowDamage false; this enableSimulation true;";
-		};
-		class Item44
-		{
-			position[]={3649.6157,10.236078,13108.429};
-			offsetY=-9.5367398e-007;
-			id=44;
-			side="EMPTY";
-			vehicle="Land_LampHarbour_F";
-			skill=0.40000001;
-			init="this allowDamage false; this enableSimulation true;";
-		};
-		class Item45
-		{
-			position[]={3646.3357,10.186366,13108.729};
-			offsetY=-9.5367398e-007;
-			id=45;
-			side="EMPTY";
-			vehicle="Land_LampHarbour_F";
-			skill=0.40000001;
-			init="this allowDamage false; this enableSimulation true;";
-		};
+
 		class Item46
 		{
 			position[]={3630.1057,10.134656,13108.729};
@@ -997,27 +958,6 @@ class Mission
 			id=91;
 			side="EMPTY";
 			vehicle="Land_City2_4m_F";
-			skill=0.40000001;
-			init="this allowDamage false; this enableSimulation false;";
-		};
-		class Item92
-		{
-			position[]={3651.6855,10.2624,13122.429};
-			azimut=317.58301;
-			offsetY=-9.5367398e-007;
-			id=92;
-			side="EMPTY";
-			vehicle="Land_LampHarbour_F";
-			skill=0.40000001;
-			init="this allowDamage false; this enableSimulation false;";
-		};
-		class Item93
-		{
-			position[]={3631.7856,10.110644,13113.629};
-			azimut=188.16;
-			id=93;
-			side="EMPTY";
-			vehicle="Land_LampHarbour_F";
 			skill=0.40000001;
 			init="this allowDamage false; this enableSimulation false;";
 		};
