@@ -310,7 +310,7 @@ class Mission
 			side="EMPTY";
 			vehicle="SignAd_SponsorS_F";
 			skill=0.40000001;
-			init="this allowDamage false; this enableSimulation false; this setdir getdir(tipsSignPost01); this SetObjectTexture [0,""textures\schilder\logo.jpg""]; this attachTo [tipsSignPost01,[0,-.1,0.6]];  ";
+			init="this allowDamage false; this enableSimulation false; this setdir getdir(tipsSignPost01); this SetObjectTexture [0,""textures\Schilddhs.jpg""]; this attachTo [tipsSignPost01,[0,-.1,0.6]];  ";
 		};
 		class Item25
 		{
@@ -1048,7 +1048,7 @@ class Mission
 			side="EMPTY";
 			vehicle="SignAd_SponsorS_F";
 			skill=0.40000001;
-			init="this allowDamage false; this enableSimulation false; this setdir getdir(tipsSignPost01); this SetObjectTexture [0,""textures\schilder\logo.jpg""]; this attachTo [tipsSignPost01,[0,-.1,0.6]];  ";
+			init="this allowDamage false; this enableSimulation false; this setdir getdir(tipsSignPost01); this SetObjectTexture [0,""textures\Schilddhs.jpg""]; this attachTo [tipsSignPost01,[0,-.1,0.6]];  ";
 		};
 		class Item97
 		{
@@ -1059,7 +1059,7 @@ class Mission
 			side="EMPTY";
 			vehicle="SignAd_SponsorS_F";
 			skill=0.40000001;
-			init="this allowDamage false; this enableSimulation false; this setdir getdir(tipsSignPost01); this SetObjectTexture [0,""textures\schilder\logo.jpg""]; this attachTo [tipsSignPost01,[0,-.1,0.6]];  ";
+			init="this allowDamage false; this enableSimulation false; this setdir getdir(tipsSignPost01); this SetObjectTexture [0,""textures\Schilddhs.jpg""]; this attachTo [tipsSignPost01,[0,-.1,0.6]];  ";
 		};
 		class Item98
 		{
@@ -1070,7 +1070,7 @@ class Mission
 			side="EMPTY";
 			vehicle="SignAd_SponsorS_F";
 			skill=0.40000001;
-			init="this allowDamage false; this enableSimulation false; this setdir getdir(tipsSignPost01); this SetObjectTexture [0,""textures\schilder\logo.jpg""]; this attachTo [tipsSignPost01,[0,-.1,0.6]];  ";
+			init="this allowDamage false; this enableSimulation false; this setdir getdir(tipsSignPost01); this SetObjectTexture [0,""textures\Schilddhs.jpg""]; this attachTo [tipsSignPost01,[0,-.1,0.6]];  ";
 		};
 		class Item99
 		{
@@ -1081,7 +1081,7 @@ class Mission
 			side="EMPTY";
 			vehicle="SignAd_SponsorS_F";
 			skill=0.40000001;
-			init="this allowDamage false; this enableSimulation false; this setdir getdir(tipsSignPost01); this SetObjectTexture [0,""textures\schilder\logo.jpg""]; this attachTo [tipsSignPost01,[0,-.1,0.6]];  ";
+			init="this allowDamage false; this enableSimulation false; this setdir getdir(tipsSignPost01); this SetObjectTexture [0,""textures\Schilddhs.jpg""]; this attachTo [tipsSignPost01,[0,-.1,0.6]];  ";
 		};
 		class Item100
 		{
@@ -1092,7 +1092,7 @@ class Mission
 			side="EMPTY";
 			vehicle="SignAd_SponsorS_F";
 			skill=0.40000001;
-			init="this allowDamage false; this enableSimulation false; this setdir getdir(tipsSignPost01); this SetObjectTexture [0,""textures\schilder\logo.jpg""]; this attachTo [tipsSignPost01,[0,-.1,0.6]];  ";
+			init="this allowDamage false; this enableSimulation false; this setdir getdir(tipsSignPost01); this SetObjectTexture [0,""textures\Schilddhs.jpg""]; this attachTo [tipsSignPost01,[0,-.1,0.6]];  ";
 		};
 		class Item101
 		{
@@ -1509,7 +1509,7 @@ class Mission
 			side="EMPTY";
 			vehicle="SignAd_SponsorS_F";
 			skill=0.40000001;
-			init="this allowDamage false; this enableSimulation false; this setdir getdir(tipsSignPost01); this SetObjectTexture [0,""textures\schilder\logo.jpg""]; this attachTo [tipsSignPost01,[0,-.1,0.6]];  ";
+			init="this allowDamage false; this enableSimulation false; this setdir getdir(tipsSignPost01); this SetObjectTexture [0,""textures\Schilddhs.jpg""]; this attachTo [tipsSignPost01,[0,-.1,0.6]];  ";
 		};
 		class Item143
 		{
@@ -1563,7 +1563,7 @@ class Mission
 			side="EMPTY";
 			vehicle="Land_Billboard_F";
 			skill=0.40000001;
-			init="this allowDamage false; this enableSimulation false; this setdir getdir(tipsSignPost01); this SetObjectTexture [0,""textures\schilder\logo.jpg""]; this attachTo [tipsSignPost01,[0,-.1,0.6]];  ";
+			init="this allowDamage false; this enableSimulation false; this setdir getdir(tipsSignPost01); this SetObjectTexture [0,""textures\Schilddhs.jpg""]; this attachTo [tipsSignPost01,[0,-.1,0.6]];  ";
 		};
 	};
 };
